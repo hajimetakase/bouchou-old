@@ -1,0 +1,502 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/BouchouArticle$.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/BouchouArticle.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/BouchouDiary$.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/BouchouDiary.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/CourtEvent$.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/CourtEvent.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/GovermentEvent$.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/GovermentEvent.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/ParliamentEvent$.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/ParliamentEvent.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/package$.class
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> /Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/package.class
+binary dependencies:
+12 items
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> /Users/hajime/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> /Users/hajime/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> /Users/hajime/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> /Users/hajime/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> /Users/hajime/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> /Users/hajime/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> bouchou_core.models.BouchouArticle
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> bouchou_core.models.BouchouArticle$
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> bouchou_core.models.BouchouDiary
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> bouchou_core.models.BouchouDiary$
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> bouchou_core.models.CourtEvent
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> bouchou_core.models.CourtEvent$
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> bouchou_core.models.GovermentEvent
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> bouchou_core.models.GovermentEvent$
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> bouchou_core.models.ParliamentEvent
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> bouchou_core.models.ParliamentEvent$
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> bouchou_core.models.package
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> bouchou_core.models.package$
+used names:
+359 items
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> &&
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> <init>
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> ==
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> A
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> AbstractFunction16
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Any
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> AnyRef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Boolean
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> BouchouArticle
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> IndexOutOfBoundsException
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Int
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Iterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> List
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Long
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> None
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Nothing
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Object
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Predef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Product
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> ScalaRunTime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Serializable
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Some
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Statics
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> String
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T0
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T1
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T10
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T11
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T12
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T13
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T14
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T15
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T16
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T2
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T3
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T4
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T5
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T6
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T7
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T8
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> T9
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> Tuple16
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> _toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> agendas
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> anyHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> asInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> bouchouId
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> bouchou_core
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> content
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> createdAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> creatorId
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> deletedAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> documentsUrls
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> eq
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> eventType
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> finalizeHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> id
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> isDeleted
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> isInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> laws
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> links
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> longHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> mix
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> models
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> package
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> pv
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> runtime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> scala
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> tags
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> title
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> typedProductIterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> updatedAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> ||
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> &&
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> <init>
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> ==
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> A
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> AbstractFunction13
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Any
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> AnyRef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Boolean
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> BouchouDiary
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> IndexOutOfBoundsException
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Int
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Iterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> List
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Long
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> None
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Nothing
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Object
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Predef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Product
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> ScalaRunTime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Serializable
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Some
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Statics
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> String
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T0
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T1
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T10
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T11
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T12
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T13
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T2
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T3
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T4
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T5
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T6
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T7
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T8
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> T9
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> Tuple13
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> _toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> agendas
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> anyHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> asInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> bouchou_core
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> content
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> createdAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> creatorId
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> deletedAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> documentsUrls
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> eq
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> finalizeHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> id
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> isDeleted
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> isInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> links
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> longHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> mix
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> models
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> package
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> pv
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> runtime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> scala
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> tags
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> title
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> typedProductIterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> updatedAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> ||
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> &&
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> <init>
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> ==
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Any
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> AnyRef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Boolean
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> CourtEvent
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> IndexOutOfBoundsException
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Int
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Iterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> List
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Long
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Nothing
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Object
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Predef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Product
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> ScalaRunTime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Serializable
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Statics
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> String
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> T
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> T0
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Tuple2
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> Tuple3
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> _toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> agenda
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> anyHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> asInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> bouchouIds
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> bouchouPeopleCount
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> bouchou_core
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> contributers
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> country
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> courtDivision
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> courtName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> courtProcessType
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> courtRoom
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> courtRound
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> courtType
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> createdAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> defenceAttitude
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> defenceLawyers
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> documentsUrls
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> endAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> eq
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> finalizeHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> id
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> incidentId
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> isBouchouTicket
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> isInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> isJury
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> isPublic
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> lang
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> laws
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> leftJudgeName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> links
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> longHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> mainJudgeName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> mix
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> models
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> next
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> package
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> plaintiffAttitude
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> plaintiffLawyers
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> previousDates
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> pv
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> rightJudgeName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> runtime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> scala
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> startAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> tags
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> title
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> typedProductIterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> url
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> ||
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> &&
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> <init>
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> ==
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Any
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> AnyRef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Boolean
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> GovermentEvent
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> IndexOutOfBoundsException
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Int
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Iterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> List
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Long
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Nothing
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Object
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Predef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Product
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> ScalaRunTime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Serializable
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> Statics
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> String
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> T
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> T0
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> _toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> agendas
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> anyHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> asInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> bouchouIds
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> bouchouPeopleNum
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> bouchou_core
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> bureauName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> committeeName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> committeeNum
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> contributers
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> country
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> createdAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> divisionName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> documentsUrls
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> endAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> eq
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> finalizeHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> id
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> isBouchouTicket
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> isInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> isPublic
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> lang
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> laws
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> links
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> longHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> ministryName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> mix
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> models
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> next
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> package
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> place
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> previousDates
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> pv
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> room
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> runtime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> scala
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> startAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> tags
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> tile
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> typedProductIterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> url
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> ||
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> &&
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> <init>
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> ==
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Any
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> AnyRef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Boolean
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> IndexOutOfBoundsException
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Int
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Iterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> List
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Long
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Nothing
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Object
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> ParliamentEvent
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Predef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Product
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> ScalaRunTime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Serializable
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> Statics
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> String
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> T
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> T0
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> _toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> agendas
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> anyHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> asInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> bouchouIds
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> bouchouPeopleNum
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> bouchou_core
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> commiteeType
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> committeeChairmanName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> committeeNum
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> contributers
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> country
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> createdAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> documentsUrls
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> endAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> eq
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> finalizeHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> id
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> isBouchouTicket
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> isInstanceOf
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> isPublic
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> lang
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> laws
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> links
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> longHash
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> mix
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> models
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> next
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> package
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> parliamentName
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> parliamentRoom
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> parliamentType
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> previousDates
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> pv
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> runtime
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> scala
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> startAt
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> tags
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> toString
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> typedProductIterator
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> url
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> ||
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> <init>
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> AnyRef
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> Object
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> Random
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> bouchou_core
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> models
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> package
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> scala
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> util
+product stamps:
+12 items
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/BouchouArticle$.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/BouchouArticle.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/BouchouDiary$.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/BouchouDiary.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/CourtEvent$.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/CourtEvent.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/GovermentEvent$.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/GovermentEvent.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/ParliamentEvent$.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/ParliamentEvent.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/package$.class -> lastModified(1512201392000)
+/Users/hajime/workspace/bouchou_core/target/scala-2.11/classes/bouchou_core/models/package.class -> lastModified(1512201392000)
+source stamps:
+6 items
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> hash(320a31e7f11fe64711a3da35e8a735b7d7836d61)
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> hash(479b8ccd3c0a7dbb6111810a0117d239891a0432)
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> hash(201b23c5d1360fab751af2f0ede91c25457a0e55)
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> hash(3c98fe05fe357595695b1eb016da81634441f0e6)
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> hash(c54fd4dd3aa60b3049e2d09c6c51b03412434ff9)
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> hash(d2af7591d62cb7343d40541a7f50a11075f519bb)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
+/Users/hajime/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/hajime/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.util.Random$
+internal apis:
+6 items
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwTlIQCAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA8c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwT6b8M3QABm5vdGlmeXNxAH4ADKdPhNF0AAlkZWxldGVkQXRzcQB+AAxQ+fOQdAAJYm91Y2hvdUlkc3EAfgAM40K/nHQACWV2ZW50VHlwZXNxAH4ADP3Z+P50AAdhZ2VuZGFzc3EAfgAM0pLEpXQADkJvdWNob3VBcnRpY2xlc3EAfgAM+9p1/HQACXVwZGF0ZWRBdHNxAH4ADInB5zR0AAR3YWl0c3EAfgAMc2b9XHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMh5+r5nQADSRhc0luc3RhbmNlT2ZzcQB+AAzbjeS1dAAOY29weSRkZWZhdWx0JDVzcQB+AAxmJFKJdAAMcHJvZHVjdEFyaXR5c3EAfgAMZhK6b3QABmVxdWFsc3NxAH4ADOn3LxF0AA5jb3B5JGRlZmF1bHQkOXNxAH4ADCczpZN0AA9jb3B5JGRlZmF1bHQkMTJzcQB+AAwqGV4IdAAEdGFnc3NxAH4ADCKd48F0AAxhc0luc3RhbmNlT2ZzcQB+AAwY+6ncdAAMc3luY2hyb25pemVkc3EAfgAMIkhA/HQABGxhd3NzcQB+AAwF2CcQdAANJGlzSW5zdGFuY2VPZnNxAH4ADLDEZLN0AA9jb3B5JGRlZmF1bHQkMTVzcQB+AAyahFkldAAOY29weSRkZWZhdWx0JDhzcQB+AAxmw/wrdAAPY29weSRkZWZhdWx0JDEzc3EAfgAMiI9er3QACGNhbkVxdWFsc3EAfgAM1HcXGXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMapAL9nQACWNyZWF0b3JJZHNxAH4ADN2u2Sp0AA1wcm9kdWN0UHJlZml4c3EAfgAMtXZvinQACW5vdGlmeUFsbHNxAH4ADDIyxw10AAxpc0luc3RhbmNlT2ZzcQB+AAyr2E4MdAACcHZzcQB+AAzR08oPdAAFbGlua3NzcQB+AAyZRHV6dAAPY29weSRkZWZhdWx0JDE2c3EAfgAMvcNc33QABjxpbml0PnNxAH4ADER54tN0AAJpZHNxAH4ADMJ0Bfd0AAlpc0RlbGV0ZWRzcQB+AAyxbc0pdAACPT1zcQB+AAxepLBydAAPY29weSRkZWZhdWx0JDE0c3EAfgAM3t5XcnQABWNsb25lc3EAfgAM37EMvXQADmNvcHkkZGVmYXVsdCQ3c3EAfgAM9yg4hnQAD2NvcHkkZGVmYXVsdCQxMHNxAH4ADDJr3bV0AAYkaW5pdCRzcQB+AAwdXWmrdAAJY3JlYXRlZEF0c3EAfgAMHLdzWHQAB2NvbnRlbnRzcQB+AAxHQDMtdAAOY29weSRkZWZhdWx0JDNzcQB+AAxQ1FXTdAAEY29weXNxAH4ADGezHAd0AAh0b1N0cmluZ3NxAH4ADIMTvk50AA1kb2N1bWVudHNVcmxzc3EAfgAMyvWU+XQAAiE9c3EAfgAMrU2tz3QACGdldENsYXNzc3EAfgAMvKkwX3QABXRpdGxlc3EAfgAMz807N3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMqhz2YXQADmNvcHkkZGVmYXVsdCQ2c3EAfgAMUaFL3XQAAm5lc3EAfgAMWoP3VnQAD2NvcHkkZGVmYXVsdCQxMXNxAH4ADIwTnP50AAJlcXNxAH4ADB2rNGJ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxXgLhUdAACIyNzcQB+AAyAyGa+dAAIZmluYWxpemVzcQB+AAyxv50BdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyPd9OQdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAiYm91Y2hvdV9jb3JlLm1vZGVscy5Cb3VjaG91QXJ0aWNsZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AI9MAAlpbmhlcml0ZWRxAH4Aj0wAB3BhcmVudHNxAH4Aj3hxAH4ArHNxAH4Ap3VxAH4AigAAAABzcQB+AKd1cQB+AIoAAAAAc3EAfgCndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCrdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDFc3EAfgC4cQB+ALtzcQB+ALxzcQB+AL91cQB+AMIAAAADc3EAfgDEdAAEamF2YXNxAH4AxHQAAmlvcQB+AMlzcQB+ALh0AAdQcm9kdWN0cQB+AL5zcQB+ALh0AAZFcXVhbHNxAH4AvnNxAH4AuHQABk9iamVjdHNxAH4AvHNxAH4Av3VxAH4AwgAAAANzcQB+AMRxAH4Az3NxAH4AxHQABGxhbmdxAH4AyXNxAH4AuHQAA0FueXEAfgC+dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAATYm91Y2hvdV9jb3JlLm1vZGVsc3NxAH4A4nQADGJvdWNob3VfY29yZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYBY6ALJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L1VzZXJzL2hhamltZS93b3Jrc3BhY2UvYm91Y2hvdV9jb3JlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQyCjHn8R/mRxGj2jXopzW314NtYQ==
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8TkEegAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA2c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCUEtJHQABm5vdGlmeXNxAH4ADCUuX0x0AAlkZWxldGVkQXRzcQB+AAwGqm+CdAAHYWdlbmRhc3NxAH4ADMUBXI10AAl1cGRhdGVkQXRzcQB+AAzLSoEVdAAEd2FpdHNxAH4ADNQAuMR0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADOam0eR0AA0kYXNJbnN0YW5jZU9mc3EAfgAMaoxifnQADmNvcHkkZGVmYXVsdCQ1c3EAfgAMHoJEL3QADHByb2R1Y3RBcml0eXNxAH4ADIabQ0R0AAZlcXVhbHNzcQB+AAycxxc2dAAOY29weSRkZWZhdWx0JDlzcQB+AAzckKH+dAAMQm91Y2hvdURpYXJ5c3EAfgAMlzDDhXQAD2NvcHkkZGVmYXVsdCQxMnNxAH4ADPoPH6N0AAR0YWdzc3EAfgAM0XjrpXQADGFzSW5zdGFuY2VPZnNxAH4ADAfiNpp0AAxzeW5jaHJvbml6ZWRzcQB+AAxyXwvAdAANJGlzSW5zdGFuY2VPZnNxAH4ADPdyz4R0AA5jb3B5JGRlZmF1bHQkOHNxAH4ADAi4qlx0AA9jb3B5JGRlZmF1bHQkMTNzcQB+AAxitczvdAAIY2FuRXF1YWxzcQB+AAze/1eTdAAOY29weSRkZWZhdWx0JDRzcQB+AAwg6D19dAAJY3JlYXRvcklkc3EAfgAMcnrObXQADXByb2R1Y3RQcmVmaXhzcQB+AAz5zDWGdAAJbm90aWZ5QWxsc3EAfgAMTIYXCHQADGlzSW5zdGFuY2VPZnNxAH4ADFnUSmt0AAJwdnNxAH4ADJv67UN0AAVsaW5rc3NxAH4ADBOcrSV0AAY8aW5pdD5zcQB+AAxdwC7odAACaWRzcQB+AAwiJE9edAAJaXNEZWxldGVkc3EAfgAM7hlGR3QAAj09c3EAfgAMs6U8x3QABWNsb25lc3EAfgAMEluFgnQADmNvcHkkZGVmYXVsdCQ3c3EAfgAMNBDf03QAD2NvcHkkZGVmYXVsdCQxMHNxAH4ADP9sXTx0AAYkaW5pdCRzcQB+AAyPKcn8dAAJY3JlYXRlZEF0c3EAfgAM1syUtnQAB2NvbnRlbnRzcQB+AAxRy5UfdAAOY29weSRkZWZhdWx0JDNzcQB+AAzGMFKfdAAEY29weXNxAH4ADAA2LOx0AAh0b1N0cmluZ3NxAH4ADFpKMhZ0AA1kb2N1bWVudHNVcmxzc3EAfgAM/G8zkXQAAiE9c3EAfgAMqjmCy3QACGdldENsYXNzc3EAfgAM62uiinQABXRpdGxlc3EAfgAMlGHaSHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMdJhs8HQADmNvcHkkZGVmYXVsdCQ2c3EAfgAM0Ve+8HQAAm5lc3EAfgAMlcZIAHQAD2NvcHkkZGVmYXVsdCQxMXNxAH4ADHF0Lg50AAJlcXNxAH4ADP7F8jt0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxqfGVddAACIyNzcQB+AAzPSoRvdAAIZmluYWxpemVzcQB+AAwugoDTdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyeDUDXdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAgYm91Y2hvdV9jb3JlLm1vZGVscy5Cb3VjaG91RGlhcnl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Am3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCDTAAJaW5oZXJpdGVkcQB+AINMAAdwYXJlbnRzcQB+AIN4cQB+AKBzcQB+AJt1cQB+AH4AAAAAc3EAfgCbdXEAfgB+AAAAAHNxAH4Am3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4An3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4An3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AuXNxAH4ArHEAfgCvc3EAfgCwc3EAfgCzdXEAfgC2AAAAA3NxAH4AuHQABGphdmFzcQB+ALh0AAJpb3EAfgC9c3EAfgCsdAAHUHJvZHVjdHEAfgCyc3EAfgCsdAAGRXF1YWxzcQB+ALJzcQB+AKx0AAZPYmplY3RzcQB+ALBzcQB+ALN1cQB+ALYAAAADc3EAfgC4cQB+AMNzcQB+ALh0AARsYW5ncQB+AL1zcQB+AKx0AANBbnlxAH4AsnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAE2JvdWNob3VfY29yZS5tb2RlbHNzcQB+ANZ0AAxib3VjaG91X2NvcmVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWAWOgCydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPi9Vc2Vycy9oYWppbWUvd29ya3NwYWNlL2JvdWNob3VfY29yZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUR5uMzTwKfbthEYEKARfSOYkaBDI=
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw02u/qwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw2VxI93QADWNvdXJ0RGl2aXNpb25zcQB+AAyT0JIXdAAGbm90aWZ5c3EAfgAM5GbSYXQAD2NvcHkkZGVmYXVsdCQzM3NxAH4ADM2pvG50AA9jb3B5JGRlZmF1bHQkMjBzcQB+AAw5NK4udAAKaW5jaWRlbnRJZHNxAH4ADE5L1xJ0AAR3YWl0c3EAfgAMjqNRNXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMa2xi9nQADSRhc0luc3RhbmNlT2ZzcQB+AAw6AFxzdAAPY29weSRkZWZhdWx0JDMwc3EAfgAMgldTpXQADmNvcHkkZGVmYXVsdCQ1c3EAfgAMbH5IRHQACmJvdWNob3VJZHNzcQB+AAy7WaXCdAAPY29weSRkZWZhdWx0JDI2c3EAfgAM+X9++HQAEXBsYWludGlmZkF0dGl0dWRlc3EAfgAMYgjQdnQADnJpZ2h0SnVkZ2VOYW1lc3EAfgAMN1s2e3QADHByb2R1Y3RBcml0eXNxAH4ADPX5WRV0AAN1cmxzcQB+AAwLcaYzdAAGZXF1YWxzc3EAfgAM/5Pkd3QADmNvcHkkZGVmYXVsdCQ5c3EAfgAMViHmVnQAD2NvcHkkZGVmYXVsdCQyMXNxAH4ADBuYU1Z0AA9jb3B5JGRlZmF1bHQkMTJzcQB+AAxNAsk7dAAJY291cnROYW1lc3EAfgAMeaiF9nQABHRhZ3NzcQB+AAxNN0jkdAAMYXNJbnN0YW5jZU9mc3EAfgAM5+jn2XQAD2NvcHkkZGVmYXVsdCQxOXNxAH4ADHOc2Ep0AA9kZWZlbmNlQXR0aXR1ZGVzcQB+AAxV6Av+dAASYm91Y2hvdVBlb3BsZUNvdW50c3EAfgAMAkSxVHQAD2NvcHkkZGVmYXVsdCQzMnNxAH4ADN03WHl0AAxzeW5jaHJvbml6ZWRzcQB+AAzdR2ujdAAPY29weSRkZWZhdWx0JDI4c3EAfgAM7OSSeHQABGxhd3NzcQB+AAy1oaCUdAANJGlzSW5zdGFuY2VPZnNxAH4ADPo9Lrd0AA9jb3B5JGRlZmF1bHQkMTVzcQB+AAyEfG6UdAAOY29weSRkZWZhdWx0JDhzcQB+AAwqyRyxdAANcHJldmlvdXNEYXRlc3NxAH4ADIFUaTN0ABBwbGFpbnRpZmZMYXd5ZXJzc3EAfgAM2tKV43QAD2NvcHkkZGVmYXVsdCQxM3NxAH4ADHdAWll0AAhjYW5FcXVhbHNxAH4ADGke1ZF0AAdjb3VudHJ5c3EAfgAMJgsKxXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM5vSGi3QADXByb2R1Y3RQcmVmaXhzcQB+AAxbvYNIdAAPY29weSRkZWZhdWx0JDI5c3EAfgAMlI9Rr3QACWNvdXJ0Um9vbXNxAH4ADJHli3d0AAlub3RpZnlBbGxzcQB+AAyNCmCFdAAPY29weSRkZWZhdWx0JDMxc3EAfgAM/x1KPHQAD2NvcHkkZGVmYXVsdCQyMnNxAH4ADC0GzT90AApjb3VydFJvdW5kc3EAfgAMxIzPLnQADGlzSW5zdGFuY2VPZnNxAH4ADDZe/n10AA9jb3B5JGRlZmF1bHQkMThzcQB+AAwPEA2DdAAPY29weSRkZWZhdWx0JDI3c3EAfgAM6DmrLnQACGlzUHVibGljc3EAfgAMJE1vtXQAAnB2c3EAfgAMqyHmvHQABWxpbmtzc3EAfgAMALgk0nQAEGNvdXJ0UHJvY2Vzc1R5cGVzcQB+AAzSe7qCdAAPY29weSRkZWZhdWx0JDE2c3EAfgAMwyPtLXQABjxpbml0PnNxAH4ADOPNIid0AAJpZHNxAH4ADMWxuWV0AA9jb3B5JGRlZmF1bHQkMzZzcQB+AAzdBgt8dAAMY29udHJpYnV0ZXJzc3EAfgAMB55WCHQAB3N0YXJ0QXRzcQB+AAzzwfzjdAAPY29weSRkZWZhdWx0JDI0c3EAfgAMncux5HQAAj09c3EAfgAMWUSvXXQAD2NvcHkkZGVmYXVsdCQxNHNxAH4ADAJV7zJ0AA1sZWZ0SnVkZ2VOYW1lc3EAfgAMquOYHnQABWNsb25lc3EAfgAM7p/jjXQAD2NvcHkkZGVmYXVsdCQyM3NxAH4ADO4yby90AAZhZ2VuZGFzcQB+AAzLC+uVdAAOY29weSRkZWZhdWx0JDdzcQB+AAwHjgJJdAAPY29weSRkZWZhdWx0JDEwc3EAfgAMG3A+6nQABiRpbml0JHNxAH4ADIC1+5x0AARuZXh0c3EAfgAMvL8bxXQACWNyZWF0ZWRBdHNxAH4ADPyVTGB0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADGpS0m10AARjb3B5c3EAfgAMPG/5vHQAD2NvcHkkZGVmYXVsdCQxN3NxAH4ADMQt9sp0AAh0b1N0cmluZ3NxAH4ADC93ceN0AA5kZWZlbmNlTGF3eWVyc3NxAH4ADD79z/Z0AA1kb2N1bWVudHNVcmxzc3EAfgAMJ/5XNHQACWNvdXJ0VHlwZXNxAH4ADAOY+v90AAIhPXNxAH4ADOoSM3J0AAhnZXRDbGFzc3NxAH4ADHXAHiB0AA1tYWluSnVkZ2VOYW1lc3EAfgAMk87vCnQABXRpdGxlc3EAfgAMpqE88nQADmNvcHkkZGVmYXVsdCQxc3EAfgAMyazob3QAD2NvcHkkZGVmYXVsdCQzNHNxAH4ADHY/DEp0AARsYW5nc3EAfgAMnJZVbHQABmlzSnVyeXNxAH4ADGNiTkd0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADF02aBV0AAJuZXNxAH4ADHhD1yh0AA9jb3B5JGRlZmF1bHQkMjVzcQB+AAx9QfeqdAAPY29weSRkZWZhdWx0JDM1c3EAfgAMNckEWXQAD2lzQm91Y2hvdVRpY2tldHNxAH4ADG8Z4hx0AA9jb3B5JGRlZmF1bHQkMTFzcQB+AAzD2SfQdAAKQ291cnRFdmVudHNxAH4ADGpwzFl0AAJlcXNxAH4ADPslafl0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxeLLlOdAACIyNzcQB+AAy+WIP6dAAIZmluYWxpemVzcQB+AAxHc7F7dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAy8NVjPdAAIaGFzaENvZGVzcQB+AAxKP4kydAAFZW5kQXRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgDfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAeYm91Y2hvdV9jb3JlLm1vZGVscy5Db3VydEV2ZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+APdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4A30wACWluaGVyaXRlZHEAfgDfTAAHcGFyZW50c3EAfgDfeHEAfgD8c3EAfgD3dXEAfgDaAAAAAHNxAH4A93VxAH4A2gAAAABzcQB+APd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+APt0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+APtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ARVzcQB+AQhxAH4BC3NxAH4BDHNxAH4BD3VxAH4BEgAAAANzcQB+ARR0AARqYXZhc3EAfgEUdAACaW9xAH4BGXNxAH4BCHQAB1Byb2R1Y3RxAH4BDnNxAH4BCHQABkVxdWFsc3EAfgEOc3EAfgEIdAAGT2JqZWN0c3EAfgEMc3EAfgEPdXEAfgESAAAAA3NxAH4BFHEAfgEfc3EAfgEUcQB+ALdxAH4BGXNxAH4BCHQAA0FueXEAfgEOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAATYm91Y2hvdV9jb3JlLm1vZGVsc3NxAH4BMXQADGJvdWNob3VfY29yZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYBY6ALJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L1VzZXJzL2hhamltZS93b3Jrc3BhY2UvYm91Y2hvdV9jb3JlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQgGyPF0TYPq3Ua8vDt6RwlRXoOVQ==
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwMaqZOQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABUc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNxW0mHQABm5vdGlmeXNxAH4ADKwhBIF0AAdhZ2VuZGFzc3EAfgAMp0MrNHQAD2NvcHkkZGVmYXVsdCQyMHNxAH4ADF+fErh0AAR3YWl0c3EAfgAMz+qX53QADmNvcHkkZGVmYXVsdCQyc3EAfgAM1aaTBHQADSRhc0luc3RhbmNlT2ZzcQB+AAwzFih7dAAOY29weSRkZWZhdWx0JDVzcQB+AAw7Rp/zdAAKYm91Y2hvdUlkc3NxAH4ADI4gu0B0AA5Hb3Zlcm1lbnRFdmVudHNxAH4ADA929hB0AA9jb3B5JGRlZmF1bHQkMjZzcQB+AAxzqgCadAAMcHJvZHVjdEFyaXR5c3EAfgAMmugCunQAA3VybHNxAH4ADN35G6N0AAZlcXVhbHNzcQB+AAw1xjBrdAAOY29weSRkZWZhdWx0JDlzcQB+AAwcUYIhdAAPY29weSRkZWZhdWx0JDIxc3EAfgAMFsYXzXQAD2NvcHkkZGVmYXVsdCQxMnNxAH4ADOb226d0ABBib3VjaG91UGVvcGxlTnVtc3EAfgAMdqLlD3QABHRhZ3NzcQB+AAx2UT4ydAAMYXNJbnN0YW5jZU9mc3EAfgAMjsuvvXQAD2NvcHkkZGVmYXVsdCQxOXNxAH4ADIHgpT10AAxzeW5jaHJvbml6ZWRzcQB+AAyc7hNddAAPY29weSRkZWZhdWx0JDI4c3EAfgAMYkwJWXQABGxhd3NzcQB+AAxMM7+idAANJGlzSW5zdGFuY2VPZnNxAH4ADF1S/qR0AA9jb3B5JGRlZmF1bHQkMTVzcQB+AAzP0PG7dAAOY29weSRkZWZhdWx0JDhzcQB+AAwT2VPtdAANcHJldmlvdXNEYXRlc3NxAH4ADNIRH750AA9jb3B5JGRlZmF1bHQkMTNzcQB+AAzIHD2cdAAIY2FuRXF1YWxzcQB+AAw4rKj5dAAHY291bnRyeXNxAH4ADPPF+/J0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADLRPIk50AA1wcm9kdWN0UHJlZml4c3EAfgAMfz4tkXQACW5vdGlmeUFsbHNxAH4ADLcUaBN0AA9jb3B5JGRlZmF1bHQkMjJzcQB+AAxcuR9ddAAMaXNJbnN0YW5jZU9mc3EAfgAMeMzbfXQADGRpdmlzaW9uTmFtZXNxAH4ADDi4RuN0AA9jb3B5JGRlZmF1bHQkMThzcQB+AAzceScbdAAPY29weSRkZWZhdWx0JDI3c3EAfgAM+LeKJXQACGlzUHVibGljc3EAfgAMvnGYpHQAAnB2c3EAfgAMI1VQLXQABWxpbmtzc3EAfgAMnK0kb3QAD2NvcHkkZGVmYXVsdCQxNnNxAH4ADJd/L6d0AAY8aW5pdD5zcQB+AAyX1I2ddAACaWRzcQB+AAzhkuyLdAAKYnVyZWF1TmFtZXNxAH4ADAYZQLB0AAxjb250cmlidXRlcnNzcQB+AAxLlivXdAAHc3RhcnRBdHNxAH4ADKwClF90AA9jb3B5JGRlZmF1bHQkMjRzcQB+AAw7T0IJdAACPT1zcQB+AAxTu8nydAAPY29weSRkZWZhdWx0JDE0c3EAfgAMP0wg33QABWNsb25lc3EAfgAMdEsh+3QAD2NvcHkkZGVmYXVsdCQyM3NxAH4ADM4+v7t0AA5jb3B5JGRlZmF1bHQkN3NxAH4ADDAhFJB0AA9jb3B5JGRlZmF1bHQkMTBzcQB+AAw+70r4dAAMbWluaXN0cnlOYW1lc3EAfgAMVBOaRnQABiRpbml0JHNxAH4ADHZvzJh0AARuZXh0c3EAfgAMVBPaDnQACWNyZWF0ZWRBdHNxAH4ADEC9yr90AA5jb3B5JGRlZmF1bHQkM3NxAH4ADO2guR90AARjb3B5c3EAfgAMKSDTgnQAD2NvcHkkZGVmYXVsdCQxN3NxAH4ADMGDw5N0AAh0b1N0cmluZ3NxAH4ADDPfbUh0AA1kb2N1bWVudHNVcmxzc3EAfgAMmPkOY3QABXBsYWNlc3EAfgAMF8g48XQAAiE9c3EAfgAMDaN/hXQADGNvbW1pdHRlZU51bXNxAH4ADGr7zkB0AAhnZXRDbGFzc3NxAH4ADEHP8gd0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADNDq5xR0AARyb29tc3EAfgAMwray63QABGxhbmdzcQB+AAwsO+S/dAANY29tbWl0dGVlTmFtZXNxAH4ADCKPURN0AA5jb3B5JGRlZmF1bHQkNnNxAH4ADAz9vBt0AAJuZXNxAH4ADCYSER10AA9jb3B5JGRlZmF1bHQkMjVzcQB+AAxbhA5RdAAPaXNCb3VjaG91VGlja2V0c3EAfgAMhUnI43QAD2NvcHkkZGVmYXVsdCQxMXNxAH4ADCZe4FZ0AAJlcXNxAH4ADOHcEQp0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyXqTD8dAACIyNzcQB+AAwayjmndAAIZmluYWxpemVzcQB+AAwnEDI9dAAEdGlsZXNxAH4ADPLWEyJ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADN39E5t0AAhoYXNoQ29kZXNxAH4ADLT5Hnp0AAVlbmRBdHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AL94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACJib3VjaG91X2NvcmUubW9kZWxzLkdvdmVybWVudEV2ZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ANdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Av0wACWluaGVyaXRlZHEAfgC/TAAHcGFyZW50c3EAfgC/eHEAfgDcc3EAfgDXdXEAfgC6AAAAAHNxAH4A13VxAH4AugAAAABzcQB+ANd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ANt0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ANtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+APVzcQB+AOhxAH4A63NxAH4A7HNxAH4A73VxAH4A8gAAAANzcQB+APR0AARqYXZhc3EAfgD0dAACaW9xAH4A+XNxAH4A6HQAB1Byb2R1Y3RxAH4A7nNxAH4A6HQABkVxdWFsc3EAfgDuc3EAfgDodAAGT2JqZWN0c3EAfgDsc3EAfgDvdXEAfgDyAAAAA3NxAH4A9HEAfgD/c3EAfgD0cQB+AJlxAH4A+XNxAH4A6HQAA0FueXEAfgDudXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAATYm91Y2hvdV9jb3JlLm1vZGVsc3NxAH4BEXQADGJvdWNob3VfY29yZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYBY6ALJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L1VzZXJzL2hhamltZS93b3Jrc3BhY2UvYm91Y2hvdV9jb3JlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ8mP4F/jV1lWlbHrAW2oFjREHw5g==
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwIgvD5wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABQc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuAkKhXQABm5vdGlmeXNxAH4ADLDj9/x0AAdhZ2VuZGFzc3EAfgAMq3Q0E3QAD2NvcHkkZGVmYXVsdCQyMHNxAH4ADIFiNF90AA5wYXJsaWFtZW50TmFtZXNxAH4ADK+0ADV0AAR3YWl0c3EAfgAMjIybpnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMHhdF83QADSRhc0luc3RhbmNlT2ZzcQB+AAxtYe4adAAOY29weSRkZWZhdWx0JDVzcQB+AAyPMVm0dAAKYm91Y2hvdUlkc3NxAH4ADPQhRih0AA9jb3B5JGRlZmF1bHQkMjZzcQB+AAylg4KPdAAMcHJvZHVjdEFyaXR5c3EAfgAMfmj8XHQAA3VybHNxAH4ADGhsMmh0AAZlcXVhbHNzcQB+AAzh/6aCdAAOY29weSRkZWZhdWx0JDlzcQB+AAyCpF5zdAAPY29weSRkZWZhdWx0JDIxc3EAfgAMTg1eQ3QAD2NvcHkkZGVmYXVsdCQxMnNxAH4ADN5znJV0ABBib3VjaG91UGVvcGxlTnVtc3EAfgAMEdODBXQAFWNvbW1pdHRlZUNoYWlybWFuTmFtZXNxAH4ADJCqi450AA5wYXJsaWFtZW50Um9vbXNxAH4ADNELimJ0AAR0YWdzc3EAfgAM440ncXQADGFzSW5zdGFuY2VPZnNxAH4ADEB/kUp0AA9jb3B5JGRlZmF1bHQkMTlzcQB+AAw7isiGdAAMc3luY2hyb25pemVkc3EAfgAMa7gI6HQABGxhd3NzcQB+AAw9ewZodAANJGlzSW5zdGFuY2VPZnNxAH4ADC8vKEV0AA9jb3B5JGRlZmF1bHQkMTVzcQB+AAzEGR+MdAAOY29weSRkZWZhdWx0JDhzcQB+AAyyAjmKdAANcHJldmlvdXNEYXRlc3NxAH4ADGuSkTN0AA9jb3B5JGRlZmF1bHQkMTNzcQB+AAzXN4RidAAIY2FuRXF1YWxzcQB+AAxsXkU7dAAHY291bnRyeXNxAH4ADHqvYAh0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADBl6JUZ0AA1wcm9kdWN0UHJlZml4c3EAfgAMEG08EnQACW5vdGlmeUFsbHNxAH4ADPuxwyB0AA9jb3B5JGRlZmF1bHQkMjJzcQB+AAy9psEBdAAMaXNJbnN0YW5jZU9mc3EAfgAM10NAqXQAD2NvcHkkZGVmYXVsdCQxOHNxAH4ADAViqYF0AAhpc1B1YmxpY3NxAH4ADEq4DmB0AAJwdnNxAH4ADFsXrLd0AAVsaW5rc3NxAH4ADKDi/HN0AA9jb3B5JGRlZmF1bHQkMTZzcQB+AAyQ4E7bdAAGPGluaXQ+c3EAfgAMAopdOHQAAmlkc3EAfgAMv6QzJXQAD1BhcmxpYW1lbnRFdmVudHNxAH4ADHzDGYJ0AAxjb250cmlidXRlcnNzcQB+AAx13R9hdAAHc3RhcnRBdHNxAH4ADFkV0tN0AA9jb3B5JGRlZmF1bHQkMjRzcQB+AAwpzF3bdAACPT1zcQB+AAyQwtW7dAAPY29weSRkZWZhdWx0JDE0c3EAfgAMmIN5CXQABWNsb25lc3EAfgAM6ralbHQAD2NvcHkkZGVmYXVsdCQyM3NxAH4ADHqio6Z0AA5jb3B5JGRlZmF1bHQkN3NxAH4ADJNHael0AA9jb3B5JGRlZmF1bHQkMTBzcQB+AAwQl6zIdAAGJGluaXQkc3EAfgAMF/56m3QABG5leHRzcQB+AAwy72pWdAAJY3JlYXRlZEF0c3EAfgAM6E+vdnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMVHs+hnQABGNvcHlzcQB+AAyUdejedAAPY29weSRkZWZhdWx0JDE3c3EAfgAMGorX0nQACHRvU3RyaW5nc3EAfgAM0jEkPHQADWRvY3VtZW50c1VybHNzcQB+AAzUQCSZdAACIT1zcQB+AAzRP1iYdAAMY29tbWl0dGVlTnVtc3EAfgAMX9BmhXQACGdldENsYXNzc3EAfgAMLHM1OnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMvbcEEXQABGxhbmdzcQB+AAxJX54GdAAOcGFybGlhbWVudFR5cGVzcQB+AAyUgWGIdAAOY29weSRkZWZhdWx0JDZzcQB+AAx+1W+DdAACbmVzcQB+AAwaxUV1dAAPY29weSRkZWZhdWx0JDI1c3EAfgAMuMUbi3QAD2lzQm91Y2hvdVRpY2tldHNxAH4ADLX0GCB0AA9jb3B5JGRlZmF1bHQkMTFzcQB+AAwaAJ/rdAACZXFzcQB+AAzYiqHqdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMWMBHtXQAAiMjc3EAfgAMHN9LYXQACGZpbmFsaXplc3EAfgAM2AGhLXQADnByb2R1Y3RFbGVtZW50c3EAfgAMSZLLh3QACGhhc2hDb2Rlc3EAfgAMoIc25HQADGNvbW1pdGVlVHlwZXNxAH4ADK3ZInl0AAVlbmRBdHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ALd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACNib3VjaG91X2NvcmUubW9kZWxzLlBhcmxpYW1lbnRFdmVudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDPc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ALdMAAlpbmhlcml0ZWRxAH4At0wAB3BhcmVudHNxAH4At3hxAH4A1HNxAH4Az3VxAH4AsgAAAABzcQB+AM91cQB+ALIAAAAAc3EAfgDPdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDTdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDTc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDtc3EAfgDgcQB+AONzcQB+AORzcQB+AOd1cQB+AOoAAAADc3EAfgDsdAAEamF2YXNxAH4A7HQAAmlvcQB+APFzcQB+AOB0AAdQcm9kdWN0cQB+AOZzcQB+AOB0AAZFcXVhbHNxAH4A5nNxAH4A4HQABk9iamVjdHNxAH4A5HNxAH4A53VxAH4A6gAAAANzcQB+AOxxAH4A93NxAH4A7HEAfgCRcQB+APFzcQB+AOB0AANBbnlxAH4A5nVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAE2JvdWNob3VfY29yZS5tb2RlbHNzcQB+AQl0AAxib3VjaG91X2NvcmVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWAWOgCydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPi9Vc2Vycy9oYWppbWUvd29ya3NwYWNlL2JvdWNob3VfY29yZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUxU/U3TqmCzBJ4tCcbFGwNBJDT/k=
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw7TYzgAABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAUc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0Ur21XQABm5vdGlmeXNxAH4ADKXjTZ50AAdwYWNrYWdlc3EAfgAMNPaN0XQABHdhaXRzcQB+AAyrvDqodAANJGFzSW5zdGFuY2VPZnNxAH4ADCe8xy10AAZlcXVhbHNzcQB+AAyQKIITdAAMYXNJbnN0YW5jZU9mc3EAfgAMS0w1aHQADHN5bmNocm9uaXplZHNxAH4ADL8gdAh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMynR6pHQACW5vdGlmeUFsbHNxAH4ADH2x6VR0AAxpc0luc3RhbmNlT2ZzcQB+AAyhoxf/dAACPT1zcQB+AAyja9j8dAAFY2xvbmVzcQB+AAxWVTKAdAAIdG9TdHJpbmdzcQB+AAyY8PyndAACIT1zcQB+AAwJDE1ydAAIZ2V0Q2xhc3NzcQB+AAwLr2PTdAACbmVzcQB+AAxoxWzMdAACZXFzcQB+AAzbGCNfdAACIyNzcQB+AAz5b9xXdAAIZmluYWxpemVzcQB+AAzX0jmydAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgA/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAbYm91Y2hvdV9jb3JlLm1vZGVscy5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBXc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AD9MAAlpbmhlcml0ZWRxAH4AP0wAB3BhcmVudHNxAH4AP3hxAH4AXHNxAH4AV3VxAH4AOgAAAABzcQB+AFd1cQB+ADoAAAAAc3EAfgBXdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBbdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBbc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB0dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB1c3EAfgBodAADQW55c3EAfgBsc3EAfgBvdXEAfgByAAAAAnNxAH4AdHQABXNjYWxhcQB+AHt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABNib3VjaG91X2NvcmUubW9kZWxzc3EAfgCFdAAMYm91Y2hvdV9jb3Jlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFgFjoAsnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD4vVXNlcnMvaGFqaW1lL3dvcmtzcGFjZS9ib3VjaG91X2NvcmUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNKvdZHWLLc0PUBUGn9QoRB19Rm7
+external apis:
+0 items
+source infos:
+6 items
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouArticle.scala -> 
+AAAAAAAAAAA=
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/BouchouDiary.scala -> 
+AAAAAAAAAAA=
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/CourtEvent.scala -> 
+AAAAAAAAAAA=
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/GovermentEvent.scala -> 
+AAAAAAAAAAA=
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/ParilmentEvent.scala -> 
+AAAAAAAAAAA=
+/Users/hajime/workspace/bouchou_core/src/main/scala/bouchou_core/models/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYBY6ALJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9oYWppbWUvd29ya3NwYWNlL2JvdWNob3VfY29yZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

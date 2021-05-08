@@ -1,0 +1,8 @@
+{
+  "name": "cloudfunction-datastore",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/datastore": "1.4.1"
+  }
+}
